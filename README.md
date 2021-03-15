@@ -1,4 +1,4 @@
-# Interface do Instagram Clone :camera:
+# Interface do Instagram :camera:
 
 Olá! Bem vindo ao projeto realizado durante o Bootcamp da Avanade na Digital Innovation One :wave:
 
